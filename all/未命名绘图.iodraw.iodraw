@@ -82,7 +82,7 @@
             <mxPoint x="528" y="479.65999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dJvTRAzxXw7wEZnUXwzM-26" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-26" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="180" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
