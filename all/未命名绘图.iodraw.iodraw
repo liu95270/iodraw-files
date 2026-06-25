@@ -65,9 +65,7 @@
         <mxCell id="oWocCm02s-en5MsnRIq0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWocCm02s-en5MsnRIq0-16" target="oWocCm02s-en5MsnRIq0-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="735" />
-              <mxPoint x="500" y="730" />
-              <mxPoint x="530" y="730" />
+              <mxPoint x="530" y="735" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -79,6 +77,9 @@
         </mxCell>
         <mxCell id="oWocCm02s-en5MsnRIq0-21" value="生成初始证据包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oWocCm02s-en5MsnRIq0-23" value="生成初始证据包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
