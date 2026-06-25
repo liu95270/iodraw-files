@@ -76,6 +76,9 @@
         <mxCell id="dJvTRAzxXw7wEZnUXwzM-21" value="证据包" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="354" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dJvTRAzxXw7wEZnUXwzM-22" target="dJvTRAzxXw7wEZnUXwzM-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dJvTRAzxXw7wEZnUXwzM-22" value="回退结果与证据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="530" y="540" width="120" height="60" as="geometry" />
         </mxCell>
@@ -103,7 +106,7 @@
             <mxPoint x="310" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dJvTRAzxXw7wEZnUXwzM-33" value="恢复验证模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-33" value="恢复验证模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="530" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
