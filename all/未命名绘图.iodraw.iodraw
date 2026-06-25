@@ -75,11 +75,17 @@
         <mxCell id="oWocCm02s-en5MsnRIq0-18" value="保留告警并人工复核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="705" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oWocCm02s-en5MsnRIq0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oWocCm02s-en5MsnRIq0-21" target="oWocCm02s-en5MsnRIq0-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oWocCm02s-en5MsnRIq0-21" value="生成初始证据包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oWocCm02s-en5MsnRIq0-23" value="计算证据完整度E" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oWocCm02s-en5MsnRIq0-25" value="S是否达到阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="940" width="100" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
