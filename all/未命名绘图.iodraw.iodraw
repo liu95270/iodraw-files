@@ -11,7 +11,7 @@
           <mxGeometry x="371" y="160" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dJvTRAzxXw7wEZnUXwzM-3" value="升级回退管理模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="160" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dJvTRAzxXw7wEZnUXwzM-4" value="异常评估模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="dJvTRAzxXw7wEZnUXwzM-6" value="异常评估模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-7" value="异常评估模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
