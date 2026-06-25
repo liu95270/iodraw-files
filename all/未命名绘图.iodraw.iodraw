@@ -61,7 +61,7 @@
         <mxCell id="dJvTRAzxXw7wEZnUXwzM-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dJvTRAzxXw7wEZnUXwzM-20" target="dJvTRAzxXw7wEZnUXwzM-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dJvTRAzxXw7wEZnUXwzM-20" value="处置决策模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-20" value="令牌校验与执行" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="530" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dJvTRAzxXw7wEZnUXwzM-21" value="证据补采模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
