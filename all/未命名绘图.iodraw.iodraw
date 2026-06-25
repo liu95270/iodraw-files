@@ -96,6 +96,9 @@
         <mxCell id="oWocCm02s-en5MsnRIq0-30" value="生成补采要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="937.5" width="120" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="oWocCm02s-en5MsnRIq0-32" value="生成补采要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="947.5" width="120" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
