@@ -90,8 +90,8 @@
         <mxCell id="oWocCm02s-en5MsnRIq0-25" value="E是否达到阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="910" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oWocCm02s-en5MsnRIq0-27" value="计算证据完整度E" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="850" width="120" height="40" as="geometry" />
+        <mxCell id="oWocCm02s-en5MsnRIq0-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
