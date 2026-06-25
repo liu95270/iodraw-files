@@ -87,11 +87,14 @@
         <mxCell id="oWocCm02s-en5MsnRIq0-23" value="计算证据完整度E" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="840" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="oWocCm02s-en5MsnRIq0-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oWocCm02s-en5MsnRIq0-25" target="oWocCm02s-en5MsnRIq0-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oWocCm02s-en5MsnRIq0-25" value="E是否达到阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="910" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oWocCm02s-en5MsnRIq0-30" value="生成补采要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="925" width="120" height="35" as="geometry" />
+          <mxGeometry x="310" y="937.5" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
