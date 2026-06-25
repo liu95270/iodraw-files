@@ -49,6 +49,51 @@
             <mxPoint x="374" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="420" width="600" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-15" value="云边管理层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="371" y="420" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-16" value="升级回退管理模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="180" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dJvTRAzxXw7wEZnUXwzM-18" target="dJvTRAzxXw7wEZnUXwzM-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-18" value="异常评估模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="354" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dJvTRAzxXw7wEZnUXwzM-20" target="dJvTRAzxXw7wEZnUXwzM-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-20" value="处置决策模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-21" value="证据补采模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="354" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-22" value="令牌授权模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="530" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dJvTRAzxXw7wEZnUXwzM-16" target="dJvTRAzxXw7wEZnUXwzM-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="650" as="sourcePoint" />
+            <mxPoint x="490" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="479.65999999999997" as="sourcePoint" />
+            <mxPoint x="528" y="479.65999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="500" as="sourcePoint" />
+            <mxPoint x="374" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
