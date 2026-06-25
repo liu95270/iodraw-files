@@ -13,8 +13,8 @@
         <mxCell id="oWocCm02s-en5MsnRIq0-3" value="统计告警和运行指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oWocCm02s-en5MsnRIq0-4" value="统计告警和运行指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="oWocCm02s-en5MsnRIq0-4" value="计算升级异常分数S" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
