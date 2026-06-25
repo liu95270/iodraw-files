@@ -90,6 +90,9 @@
         <mxCell id="oWocCm02s-en5MsnRIq0-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oWocCm02s-en5MsnRIq0-25" target="oWocCm02s-en5MsnRIq0-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oWocCm02s-en5MsnRIq0-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oWocCm02s-en5MsnRIq0-25" target="oWocCm02s-en5MsnRIq0-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oWocCm02s-en5MsnRIq0-25" value="E是否达到阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="910" width="100" height="90" as="geometry" />
         </mxCell>
@@ -107,6 +110,9 @@
         </mxCell>
         <mxCell id="oWocCm02s-en5MsnRIq0-35" value="进入处置决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1030" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oWocCm02s-en5MsnRIq0-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="998" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
