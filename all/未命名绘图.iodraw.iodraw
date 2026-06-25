@@ -85,7 +85,7 @@
         <mxCell id="dJvTRAzxXw7wEZnUXwzM-26" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="180" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dJvTRAzxXw7wEZnUXwzM-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="dJvTRAzxXw7wEZnUXwzM-1">
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.201;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dJvTRAzxXw7wEZnUXwzM-3" target="dJvTRAzxXw7wEZnUXwzM-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="380" as="sourcePoint" />
             <mxPoint x="310" y="330" as="targetPoint" />
