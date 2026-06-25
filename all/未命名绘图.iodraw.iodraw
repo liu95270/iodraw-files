@@ -55,7 +55,7 @@
         <mxCell id="dJvTRAzxXw7wEZnUXwzM-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dJvTRAzxXw7wEZnUXwzM-18" target="dJvTRAzxXw7wEZnUXwzM-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dJvTRAzxXw7wEZnUXwzM-18" value="异常评估模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-18" value="证据采集模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="354" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dJvTRAzxXw7wEZnUXwzM-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dJvTRAzxXw7wEZnUXwzM-20" target="dJvTRAzxXw7wEZnUXwzM-22">
