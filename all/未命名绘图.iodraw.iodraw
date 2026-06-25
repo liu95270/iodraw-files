@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dJvTRAzxXw7wEZnUXwzM-33" value="回退结果与证据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="540" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
