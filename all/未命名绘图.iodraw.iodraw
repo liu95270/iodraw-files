@@ -7,8 +7,11 @@
         <mxCell id="oWocCm02s-en5MsnRIq0-1" value="算法或模型升级完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oWocCm02s-en5MsnRIq0-2" value="算法或模型升级完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="oWocCm02s-en5MsnRIq0-2" value="建立升级后观测窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oWocCm02s-en5MsnRIq0-3" value="建立升级后观测窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
