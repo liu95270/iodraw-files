@@ -102,8 +102,11 @@
         <mxCell id="oWocCm02s-en5MsnRIq0-32" value="边缘不传缺失证据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="937.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="oWocCm02s-en5MsnRIq0-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="435" y="928" width="50" height="30" as="geometry" />
+        <mxCell id="oWocCm02s-en5MsnRIq0-34" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="928" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oWocCm02s-en5MsnRIq0-35" value="计算证据完整度E" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="850" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
