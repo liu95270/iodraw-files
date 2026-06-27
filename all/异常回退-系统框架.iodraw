@@ -37,7 +37,7 @@
             <mxPoint x="589.83" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dJvTRAzxXw7wEZnUXwzM-7" value="令牌授权模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-7" value="令牌授权模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dJvTRAzxXw7wEZnUXwzM-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dJvTRAzxXw7wEZnUXwzM-3" target="dJvTRAzxXw7wEZnUXwzM-4" edge="1">
@@ -67,7 +67,7 @@
         <mxCell id="dJvTRAzxXw7wEZnUXwzM-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dJvTRAzxXw7wEZnUXwzM-20" target="dJvTRAzxXw7wEZnUXwzM-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dJvTRAzxXw7wEZnUXwzM-20" value="令牌校验与执行" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="dJvTRAzxXw7wEZnUXwzM-20" value="令牌校验与执行" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dJvTRAzxXw7wEZnUXwzM-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dJvTRAzxXw7wEZnUXwzM-21" target="dJvTRAzxXw7wEZnUXwzM-18" edge="1">
